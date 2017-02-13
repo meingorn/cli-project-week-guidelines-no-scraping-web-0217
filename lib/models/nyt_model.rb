@@ -1,4 +1,4 @@
-class ExampleModel
+class NYTModel
 
   attr_reader :example
 
